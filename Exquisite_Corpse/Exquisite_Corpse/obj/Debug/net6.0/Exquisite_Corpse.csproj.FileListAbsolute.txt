@@ -1,0 +1,15 @@
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\bin\Debug\net6.0\Exquisite_Corpse.exe
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\bin\Debug\net6.0\Exquisite_Corpse.deps.json
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\bin\Debug\net6.0\Exquisite_Corpse.runtimeconfig.json
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\bin\Debug\net6.0\Exquisite_Corpse.dll
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\bin\Debug\net6.0\Exquisite_Corpse.pdb
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.csproj.AssemblyReference.cache
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.AssemblyInfoInputs.cache
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.AssemblyInfo.cs
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.csproj.CoreCompileInputs.cache
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.dll
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\refint\Exquisite_Corpse.dll
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.pdb
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\Exquisite_Corpse.genruntimeconfig.cache
+C:\Users\F.P.S\Desktop\Projects\Exquisite Corpse\Exquisite_Corpse\Exquisite_Corpse\obj\Debug\net6.0\ref\Exquisite_Corpse.dll
